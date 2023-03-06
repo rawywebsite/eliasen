@@ -6,7 +6,7 @@ date: 2023-03-06T17:59:25.012Z
 tags:
   - post
   - featured
-image: /assets/blog/orange-modern-minimal-blog-writing-youtube-thumbnail.png
+image: /assets/blog/orange-modern-minimal-blog-writing-youtube-thumbnail-4-.webp
 imageAlt: Why do you buy a suit from Elias? - Brand Elias for exchange | An
   interesting article, a suitable choice
 ---
