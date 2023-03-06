@@ -2,8 +2,8 @@
 image: /assets/blog/pro1.jpg
 tags:
   - team
-imageAlt: عبدالله جمال - مدير فرع عباس عقاد لبراند إلياس
-text: عبدالله جمال - مدير فرع مدينة نصر
+imageAlt: Abdullah Gamal - Manager Brand Elias Branch (Nasr City)
+text: Abdullah Gamal - Nasr City Branch Manager
 facebook: fb
 instagram: ins
 ---
