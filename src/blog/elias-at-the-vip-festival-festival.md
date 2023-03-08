@@ -4,6 +4,7 @@ description: '"Elias" at the VIP Festival Festival - Elias Suits'
 date: 2023-03-08T04:08:52.654Z
 tags:
   - post
+  - featured
 image: /assets/blog/orange-modern-minimal-blog-writing-youtube-thumbnail-5-.webp
 imageAlt: '"Elias" at the VIP Festival Festival - Elias Suits'
 ---
