@@ -223,12 +223,7 @@ layout: 'base.njk'
 
 <main class="main__content_wrapper">
     <!-- Start banner section -->
-    
-                                <video autoplay muted loop id="myVideo">
-  <source src="/assets/rain.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-<style>
+    <style>
     #myVideo {
   position: relative;
   right: 0;
@@ -239,41 +234,16 @@ layout: 'base.njk'
 object-fit: cover;
 }
 </style>
+<video class="vid" autoplay muted loop id="myVideo">
+  <source src="/assets/rain.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+<video class="banner-dis" autoplay muted loop id="myVideo">
+  <source src="/assets/rainm.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 
 <!-- Start slider section -->
-<section class="hero__slider--section color-scheme-2 banner-dis">
-            <div class="hero__slider--inner hero__slider--activation swiper">
-                <div class="hero__slider--wrapper swiper-wrapper">
-                    <div class="swiper-slide ">
-                        <div class="hero__slider--items">
-                            <a href="/offer-1100"><img src="/assets/img/mobile.webp" alt="With Elias Suits, make your wedding different"></a>
-                        </div>
-                    </div>
-                    <div class="swiper-slide ">
-                        <div class="hero__slider--items">
-                            <img src="/assets/img/mobile/2.webp" alt="The artist Mohamed Ezz is shining with Elias' suit - design your outfits now at Elias">
-                        </div>
-                    </div>
-                    <div class="swiper-slide ">
-                        <div class="hero__slider--items">
-                            <img src="/assets/img/mobile/3.webp" alt="Strive to be elegant and radiant with Elias suits">
-                        </div>
-                    </div>
-                    <div class="swiper-slide ">
-                        <div class="hero__slider--items">
-                            <img src="/assets/img/mobile/4.webp" alt="Strive to be elegant and radiant with Elias suits">
-                        </div>
-                    </div>
-                    <div class="swiper-slide ">
-                        <div class="hero__slider--items">
-                            <img src="/assets/img/mobile/1.webp" alt="shop all suit in brand elias for suits">
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper__nav--btn swiper-button-next"></div>
-                <div class="swiper__nav--btn swiper-button-prev"></div>
-            </div>
-        </section>
         <section class="hero__slider--section color-scheme-2">
             <div class="hero__slider--inner hero__slider--activation swiper">
                 <div class="hero__slider--wrapper swiper-wrapper">
