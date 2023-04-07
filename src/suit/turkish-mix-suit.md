@@ -6,6 +6,7 @@ description: Turkish mix suit  \-Slim fit two-piece suit (blazer - pants,
   handkerchief  \-Pants that fit with your fit
 tags:
   - suits
+  - featuredProduct
 imageBlack: /assets/blog/c233d4db-b823-4fda-99b9-a98416b2deaa.jpg
 imageBlue: /assets/blog/935b09f5-7931-41f1-96bc-4e138deab753.jpg
 imageCol1: /assets/blog/untitled-design-5-.png
