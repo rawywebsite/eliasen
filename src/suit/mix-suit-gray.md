@@ -1,14 +1,13 @@
 ---
 title: Mix suit - gray
 branch: Gesr El Swees
+tags:
+  - suits
+imageBlack: /assets/blog/img_3510.webp
 price: 1900
 description: Gray \ - Slim fit two-piece suit (blazer - pants) \ - Turkish
   buttons with a gray blazer with a burgundy handkerchief, or sparkling \ -
   pants, suitable for your Vietnamese.
-tags:
-  - suits
-  - featuredProduct
-imageBlack: /assets/blog/img_3510.webp
 imageBlue: /assets/blog/img_3512.webp
 imageCol1: /assets/blog/بدلة-الياس-1.webp
 imageCol2: /assets/blog/بدلة-الياس-1.webp
